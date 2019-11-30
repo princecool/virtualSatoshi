@@ -3,7 +3,7 @@ An attempt to make it possible for everyone to be able to communicate to pikachu
 
 ## Idea (⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿
 Make a compiler to generate code in pikachu language(contains only pi, pika, pikachu) from    
-human understable code
+human understandable code
 
 ## Plan  (¬‿¬ )
 1. Create a virtual machine with minimal instrustion set(for sake of simplicity) to emulate
